@@ -5,6 +5,8 @@ data science as a service
 ### installation requirements
 #### Required packages
 <ol>
+  <li>Flask~=1.1.2</li>
+  <li>SQLAlchemy~=1.4.31</li>
   <li>Werkzeug~=1.0.1</li>
   <li>pandas~=1.1.5</li>
   <li>numpy~=1.20.1</li>
