@@ -1,8 +1,17 @@
+<ol>
+  <li><h3>Introduction</h3></li>
+  <li><h3>Installation</h3></li>
+  <li><h3>Starting Server</h3></li>
+  <li><h3>Applicatoin Guide</h3></li>
+  <li><h3>Conclusiom</h3></li>
+</ol>
+
 # DSaaS
-data science as a service
+Big businesses typically have a lot of data that needs to be examined and the outcomes assessed. We call such a large volume of data "big data," and analyzing it is a time-consuming procedure. Companies hire data scientists who are given data sets and expected results. Data science as a service (DSaaS) is an integrated solution for data analytics in which data scientists are not required to be engaged by each organization. With a global environment hosted on any platform, DSaaS can be applied on a global scale. For increased efficiency and dependability, the concept proposes a DSaaS web platform with grid computing/multicore computing in cooperative technology.
 
 
-### installation requirements
+
+### Installation guide
 #### Required packages
 run pip install -r requirements.txt file to install the following packages:
 <ol>
@@ -18,3 +27,12 @@ run pip install -r requirements.txt file to install the following packages:
 </ol>
 <br>
 
+### Starting the application
+#### Starting flask server via terminal
+cd into the website folder path via the terminal and start the server by running **flask run**
+
+#### Starting flask server via IDE
+open the **app.py** file and run the script by the run button configured for your IDE
+
+
+### Application Requirements
